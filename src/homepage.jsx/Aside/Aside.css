@@ -1,0 +1,29 @@
+
+
+.aside {
+    background-color: #777272;
+    padding: 15px;
+    width: 200px;
+    border-radius: 5px;
+  }
+  
+  .aside h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .aside ul {
+    list-style-type: none;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  .aside li {
+    padding: 15px;
+    font-weight: bold;
+    border: 1px solid rgb(109, 104, 104);
+    text-align: center;
+    
+  }
+  
